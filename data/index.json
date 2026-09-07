@@ -126,18 +126,18 @@
     "verification_image": null
   },
   {
-    "record_type": "artwork",
+    "record_type": "verification",
     "record_key": "NOVA-2549-AC29-DDC6",
-    "nova_id": "NOVA-2549-AC29-DDC6",
-    "matched_nova_id": null,
-    "created": "2026-08-27T17:36:18.647810",
-    "date": "2026-08-27",
-    "time": "17:36:18",
-    "location": "Not configured",
-    "fingerprint": "2549ac29ddc641f32ff34198af668395d85b12a62e877b532785530bd92183e0",
-    "image": "art_1787848567.jpg",
-    "original_image": null,
-    "verification_image": null
+    "nova_id": null,
+    "matched_nova_id": "NOVA-2549-AC29-DDC6",
+    "created": "2026-08-27T17:36:48.118771",
+    "date": null,
+    "time": null,
+    "location": null,
+    "fingerprint": null,
+    "image": null,
+    "original_image": "art_1787848567.jpg",
+    "verification_image": "verification_1787848597.jpg"
   },
   {
     "record_type": "artwork",

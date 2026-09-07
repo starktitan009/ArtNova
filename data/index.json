@@ -84,18 +84,18 @@
     "verification_image": null
   },
   {
-    "record_type": "verification",
+    "record_type": "artwork",
     "record_key": "NOVA-DA15-FA61-ACF3",
-    "nova_id": null,
-    "matched_nova_id": "NOVA-DA15-FA61-ACF3",
-    "created": "2026-08-27T18:00:23.932076",
-    "date": null,
-    "time": null,
-    "location": null,
-    "fingerprint": null,
-    "image": null,
-    "original_image": "art_1787849956.jpg",
-    "verification_image": "verification_1787850001.jpg"
+    "nova_id": "NOVA-DA15-FA61-ACF3",
+    "matched_nova_id": null,
+    "created": "2026-08-27T17:59:30.060892",
+    "date": "2026-08-27",
+    "time": "17:59:30",
+    "location": "Not configured",
+    "fingerprint": "da15fa61acf30868b32a2d1ffbd6c7e82b7b3ac1ad0410ff9ed36abddda401dc",
+    "image": "art_1787849956.jpg",
+    "original_image": null,
+    "verification_image": null
   },
   {
     "record_type": "artwork",

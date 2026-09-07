@@ -56,18 +56,18 @@
     "verification_image": null
   },
   {
-    "record_type": "verification",
+    "record_type": "artwork",
     "record_key": "NOVA-62B2-00A5-DEC4",
-    "nova_id": null,
-    "matched_nova_id": "NOVA-62B2-00A5-DEC4",
-    "created": "2026-08-27T18:41:21.886483",
-    "date": null,
-    "time": null,
-    "location": null,
-    "fingerprint": null,
-    "image": null,
-    "original_image": "art_1787852444.jpg",
-    "verification_image": "verification_1787852470.jpg"
+    "nova_id": "NOVA-62B2-00A5-DEC4",
+    "matched_nova_id": null,
+    "created": "2026-08-27T18:40:58.250008",
+    "date": "2026-08-27",
+    "time": "18:40:58",
+    "location": "Not configured",
+    "fingerprint": "62b200a5dec42ec25c64d52ec2a06eb2c46f17803d9a583ee5c6e9009bc0dd22",
+    "image": "art_1787852444.jpg",
+    "original_image": null,
+    "verification_image": null
   },
   {
     "record_type": "artwork",

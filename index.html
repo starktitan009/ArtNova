@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ArtNova — Digital Artwork Registry</title>
+  <meta name="description" content="ArtNova artwork registration and authenticity verification registry.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">N</div>
+      <div>
+        <div class="brand-name">ArtNova</div>
+        <div class="brand-sub">Artwork authenticity registry</div>
+      </div>
+    </div>
+    <div class="live"><span></span> LIVE ARCHIVE</div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div>
+        <p class="eyebrow">DIGITAL PROVENANCE SYSTEM</p>
+        <h1>Every artwork.<br><em>A verifiable identity.</em></h1>
+        <p class="hero-copy">
+          ArtNova records visual characteristics, creates a unique artwork fingerprint,
+          and preserves the registration record for future verification.
+        </p>
+      </div>
+      <div class="hero-card">
+        <div class="hero-card-title">SYSTEM STATUS</div>
+        <div class="status-row"><span class="dot"></span><b>Archive online</b></div>
+        <div class="hero-stat"><strong id="heroCount">—</strong><span>registered records</span></div>
+      </div>
+    </section>
+
+    <section class="stats">
+      <div class="stat"><span class="label">REGISTERED ARTWORKS</span><strong id="artworkCount">—</strong></div>
+      <div class="stat"><span class="label">VERIFICATIONS</span><strong id="verificationCount">—</strong></div>
+      <div class="stat"><span class="label">LATEST REGISTRATION</span><strong id="latestDate">—</strong></div>
+    </section>
+
+    <section class="section-head">
+      <div>
+        <p class="eyebrow">ARCHIVE</p>
+        <h2>Registered records</h2>
+      </div>
+      <div class="controls">
+        <input id="search" type="search" placeholder="Search NOVA ID..." aria-label="Search NOVA ID">
+        <select id="filter" aria-label="Filter records">
+          <option value="all">All records</option>
+          <option value="artwork">Artwork registrations</option>
+          <option value="verification">Verifications</option>
+        </select>
+      </div>
+    </section>
+
+    <section id="empty" class="empty" hidden>
+      <h3>No records yet</h3>
+      <p>Once the ArtNova Raspberry Pi uploads its first record, it will appear here.</p>
+    </section>
+
+    <section id="records" class="grid"></section>
+  </main>
+
+  <footer>
+    <span>ARTNOVA</span>
+    <span>Visual provenance &amp; verification</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,64 @@
+:root{
+  --paper:#f6f1e7;
+  --ink:#1e1c19;
+  --muted:#766f64;
+  --line:#d8cfbf;
+  --green:#3e7f55;
+  --gold:#c79243;
+  --white:#fffdf8;
+  --shadow:0 14px 40px rgba(45,36,25,.08);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,Arial,sans-serif}
+.topbar{height:78px;padding:0 5vw;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;background:rgba(246,241,231,.96)}
+.brand{display:flex;align-items:center;gap:12px}
+.brand-mark{width:38px;height:38px;border:1px solid var(--ink);display:grid;place-items:center;font-family:Georgia,serif;font-size:20px}
+.brand-name{font:700 20px Georgia,serif;letter-spacing:.02em}
+.brand-sub{font-size:10px;text-transform:uppercase;letter-spacing:.13em;color:var(--muted);margin-top:2px}
+.live{font-size:10px;letter-spacing:.14em;color:var(--green);font-weight:700}
+.live span,.dot{display:inline-block;width:8px;height:8px;background:var(--green);border-radius:50%;margin-right:7px}
+main{max-width:1180px;margin:auto;padding:65px 5vw 80px}
+.hero{display:grid;grid-template-columns:1.6fr .75fr;gap:60px;align-items:end}
+.eyebrow{font-size:10px;letter-spacing:.18em;color:var(--gold);font-weight:800;margin:0 0 12px}
+h1{font:400 clamp(42px,7vw,82px)/.94 Georgia,serif;letter-spacing:-.045em;margin:0}
+h1 em{font-style:italic;color:#756a5d}
+.hero-copy{max-width:620px;color:var(--muted);font-size:16px;line-height:1.7;margin-top:25px}
+.hero-card{background:var(--ink);color:var(--white);padding:28px;border-radius:3px;box-shadow:var(--shadow)}
+.hero-card-title{font-size:9px;letter-spacing:.18em;color:#bdb3a4;margin-bottom:18px}
+.status-row{font-size:13px;margin-bottom:30px}
+.hero-stat{display:flex;align-items:baseline;gap:9px}
+.hero-stat strong{font:400 50px Georgia,serif}
+.hero-stat span{font-size:11px;color:#bdb3a4}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin:70px 0 70px}
+.stat{padding:25px 0}.stat+ .stat{border-left:1px solid var(--line);padding-left:28px}
+.label{display:block;font-size:9px;letter-spacing:.16em;color:var(--muted);font-weight:800;margin-bottom:8px}
+.stat strong{font:400 31px Georgia,serif}
+.section-head{display:flex;justify-content:space-between;align-items:end;gap:20px;margin-bottom:25px}
+h2{font:400 36px Georgia,serif;margin:0}
+.controls{display:flex;gap:8px}
+input,select{font:inherit;background:var(--white);border:1px solid var(--line);padding:11px 13px;color:var(--ink);outline:none}
+input:focus,select:focus{border-color:var(--green)}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.card{background:var(--white);border:1px solid var(--line);box-shadow:var(--shadow);overflow:hidden}
+.image{height:230px;background:#e9e2d6;display:grid;place-items:center;overflow:hidden}
+.image img{width:100%;height:100%;object-fit:cover}
+.placeholder{font:italic 18px Georgia,serif;color:#9a9184}
+.card-body{padding:20px}
+.tag{font-size:9px;letter-spacing:.14em;font-weight:800;color:var(--green)}
+.card h3{font:400 22px Georgia,serif;margin:8px 0 12px;word-break:break-word}
+.meta{font-size:11px;color:var(--muted);line-height:1.7}
+.fingerprint{margin-top:14px;padding-top:12px;border-top:1px solid var(--line);font:9px/1.5 monospace;color:#696157;word-break:break-all}
+details{margin-top:14px;font-size:11px;color:var(--muted)}
+pre{white-space:pre-wrap;word-break:break-word;background:#f0ebe2;padding:10px;max-height:180px;overflow:auto}
+.empty{text-align:center;border:1px dashed var(--line);padding:60px;color:var(--muted)}
+footer{border-top:1px solid var(--line);padding:25px 5vw;display:flex;justify-content:space-between;font-size:9px;letter-spacing:.15em;color:var(--muted)}
+@media(max-width:800px){
+  .hero{grid-template-columns:1fr}.grid{grid-template-columns:1fr 1fr}
+  .section-head{align-items:stretch;flex-direction:column}.controls{width:100%}
+  input,select{flex:1}.stats{margin:45px 0}.hero-card{max-width:450px}
+}
+@media(max-width:540px){
+  .grid{grid-template-columns:1fr}.stats{grid-template-columns:1fr}.stat+.stat{border-left:0;border-top:1px solid var(--line);padding-left:0}
+  .topbar{padding:0 20px}.live{display:none}main{padding:45px 20px 60px}
+  footer{padding:22px 20px}
+}

@@ -26,5 +26,19 @@
     "image": "art_1788093070.jpg",
     "original_image": null,
     "verification_image": null
+  },
+  {
+    "record_type": "artwork",
+    "record_key": "NOVA-1681-0D70-044E",
+    "nova_id": "NOVA-1681-0D70-044E",
+    "matched_nova_id": null,
+    "created": "2026-08-27T16:36:34.848365",
+    "date": "2026-08-27",
+    "time": "16:36:34",
+    "location": "Not configured",
+    "fingerprint": "16810d70044ecf699febb141ecaf128253d632497c435ece2692507d6ca7607b",
+    "image": "art_1787844983.jpg",
+    "original_image": null,
+    "verification_image": null
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
-    "record_type": "verification",
+    "record_type": "artwork",
     "record_key": "NOVA-ACB6-52D4-43E3",
-    "nova_id": null,
-    "matched_nova_id": "NOVA-ACB6-52D4-43E3",
-    "created": "2026-08-30T13:53:54.226184",
-    "date": null,
-    "time": null,
-    "location": null,
-    "fingerprint": null,
-    "image": null,
-    "original_image": "art_1788094391.jpg",
-    "verification_image": "verification_1788094420.jpg"
+    "nova_id": "NOVA-ACB6-52D4-43E3",
+    "matched_nova_id": null,
+    "created": "2026-08-30T13:53:22.073136",
+    "date": "2026-08-30",
+    "time": "13:53:22",
+    "location": "Not configured",
+    "fingerprint": "acb652d443e3c54085d1bf9d6e0247e4582978b80bf497f82f079f3190bcb6f8",
+    "image": "art_1788094391.jpg",
+    "original_image": null,
+    "verification_image": null
   },
   {
     "record_type": "artwork",

@@ -12,5 +12,19 @@
     "image": "art_1788093255.jpg",
     "original_image": null,
     "verification_image": null
+  },
+  {
+    "record_type": "artwork",
+    "record_key": "NOVA-0CAA-1000-DB1C",
+    "nova_id": "NOVA-0CAA-1000-DB1C",
+    "matched_nova_id": null,
+    "created": "2026-08-30T13:31:23.378495",
+    "date": "2026-08-30",
+    "time": "13:31:23",
+    "location": "Not configured",
+    "fingerprint": "0caa1000db1cf2d2ede86bdfbe9ab929f9ef263619a9518ac7c593a2c387ff3b",
+    "image": "art_1788093070.jpg",
+    "original_image": null,
+    "verification_image": null
   }
 ]

@@ -98,18 +98,18 @@
     "verification_image": "verification_1787850001.jpg"
   },
   {
-    "record_type": "verification",
+    "record_type": "artwork",
     "record_key": "NOVA-85B6-B0F8-B6F5",
-    "nova_id": null,
-    "matched_nova_id": "NOVA-85B6-B0F8-B6F5",
-    "created": "2026-08-27T17:49:22.932055",
-    "date": null,
-    "time": null,
-    "location": null,
-    "fingerprint": null,
-    "image": null,
-    "original_image": "art_1787849327.jpg",
-    "verification_image": "verification_1787849350.jpg"
+    "nova_id": "NOVA-85B6-B0F8-B6F5",
+    "matched_nova_id": null,
+    "created": "2026-08-27T17:48:58.257631",
+    "date": "2026-08-27",
+    "time": "17:48:58",
+    "location": "Not configured",
+    "fingerprint": "85b6b0f8b6f5d1304d39a00813375b37cad882e7f7b82a999053eb66e92725dd",
+    "image": "art_1787849327.jpg",
+    "original_image": null,
+    "verification_image": null
   },
   {
     "record_type": "verification",

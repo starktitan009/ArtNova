@@ -1,0 +1,16 @@
+[
+  {
+    "record_type": "artwork",
+    "record_key": "NOVA-0C0B-1BB8-1400",
+    "nova_id": "NOVA-0C0B-1BB8-1400",
+    "matched_nova_id": null,
+    "created": "2026-08-30T13:34:28.734086",
+    "date": "2026-08-30",
+    "time": "13:34:28",
+    "location": "Not configured",
+    "fingerprint": "0c0b1bb814004e445b7a98b2302333d036352a632c82fd1262fcdc57ac9dc351",
+    "image": "art_1788093255.jpg",
+    "original_image": null,
+    "verification_image": null
+  }
+]

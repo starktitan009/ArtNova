@@ -124,5 +124,19 @@
     "image": "art_1787844983.jpg",
     "original_image": null,
     "verification_image": null
+  },
+  {
+    "record_type": "artwork",
+    "record_key": "NOVA-961A-86D9-4E36",
+    "nova_id": "NOVA-961A-86D9-4E36",
+    "matched_nova_id": null,
+    "created": "2026-08-27T16:27:52.226242",
+    "date": "2026-08-27",
+    "time": "16:27:52",
+    "location": "Not configured",
+    "fingerprint": "961a86d94e369b9239cd30735e1116a3673af934ccea9915db1e662d822cc811",
+    "image": "art_1787844450.jpg",
+    "original_image": null,
+    "verification_image": null
   }
 ]

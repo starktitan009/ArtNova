@@ -127,6 +127,20 @@
   },
   {
     "record_type": "artwork",
+    "record_key": "NOVA-ACF1-2D44-8012",
+    "nova_id": "NOVA-ACF1-2D44-8012",
+    "matched_nova_id": null,
+    "created": "2026-08-27T16:43:34.207746",
+    "date": "2026-08-27",
+    "time": "16:43:34",
+    "location": "Not configured",
+    "fingerprint": "acf12d44801267e1637081517c7675bda4419e275b10e6a87d9fbe65d028d00f",
+    "image": "art_1787845391.jpg",
+    "original_image": null,
+    "verification_image": null
+  },
+  {
+    "record_type": "artwork",
     "record_key": "NOVA-1681-0D70-044E",
     "nova_id": "NOVA-1681-0D70-044E",
     "matched_nova_id": null,

@@ -222,5 +222,19 @@
     "image": "art_1787844450.jpg",
     "original_image": null,
     "verification_image": null
+  },
+  {
+    "record_type": "artwork",
+    "record_key": "analysis_test",
+    "nova_id": null,
+    "matched_nova_id": null,
+    "created": null,
+    "date": null,
+    "time": null,
+    "location": null,
+    "fingerprint": "bf0f7fe6551b7a13e07d1caff79154af730dd33413891d09bad2f3ddaa63b417",
+    "image": null,
+    "original_image": null,
+    "verification_image": null
   }
 ]

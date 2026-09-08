@@ -1,0 +1,22 @@
+{
+  "verification_time": "2026-08-30T13:32:21.034445",
+  "matched_nova_id": "NOVA-0CAA-1000-DB1C",
+  "original_image": "/home/pi/artnova/data/images/art_1788093070.jpg",
+  "verification_image": "/home/pi/artnova/data/images/verification_1788093129.jpg",
+  "scores": {
+    "overall": 86.77836875601074,
+    "red": 86.96043856132773,
+    "green": 97.02533391950699,
+    "blue": 90.96619580507912,
+    "rgb": 91.65065609530461,
+    "hue": 94.8111449007219,
+    "saturation": 79.5081165180532,
+    "value": 94.52443342095678,
+    "hsv": 89.61456494657729,
+    "histogram": 88.68091991204517,
+    "texture": 91.72646280047228,
+    "edge": 41.89967982924225,
+    "stroke": 99.85652547329664,
+    "brightness": 95.9885661838165
+  }
+}

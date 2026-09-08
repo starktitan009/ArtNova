@@ -1,0 +1,22 @@
+{
+  "verification_time": "2026-08-27T17:36:48.118771",
+  "matched_nova_id": "NOVA-2549-AC29-DDC6",
+  "original_image": "/home/pi/artnova/data/images/art_1787848567.jpg",
+  "verification_image": "/home/pi/artnova/data/images/verification_1787848597.jpg",
+  "scores": {
+    "overall": 97.62789647583482,
+    "red": 98.57213438927778,
+    "green": 98.5336196647378,
+    "blue": 97.9211583985054,
+    "rgb": 98.34230415084032,
+    "hue": 97.06696045036132,
+    "saturation": 96.1871882866449,
+    "value": 98.17959471329303,
+    "hsv": 97.14458115009977,
+    "histogram": 98.17346272653663,
+    "texture": 97.80598314510684,
+    "edge": 91.92771597834889,
+    "stroke": 99.82903879135847,
+    "brightness": 98.75847385487667
+  }
+}

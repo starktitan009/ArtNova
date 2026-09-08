@@ -1,0 +1,22 @@
+{
+  "verification_time": "2026-08-27T17:42:02.650168",
+  "matched_nova_id": "NOVA-D342-2F84-A54B",
+  "original_image": "/home/pi/artnova/data/images/art_1787848878.jpg",
+  "verification_image": "/home/pi/artnova/data/images/verification_1787848910.jpg",
+  "scores": {
+    "overall": 85.45577975101313,
+    "red": 97.65354806286906,
+    "green": 97.49409903066422,
+    "blue": 97.29378119761603,
+    "rgb": 97.48047609704979,
+    "hue": 98.05442944943402,
+    "saturation": 96.32815781283138,
+    "value": 98.07777876115041,
+    "hsv": 97.48678867447194,
+    "histogram": 99.72370969887712,
+    "texture": 76.71921229251582,
+    "edge": 0,
+    "stroke": 99.71580607816577,
+    "brightness": 98.5318396578052
+  }
+}

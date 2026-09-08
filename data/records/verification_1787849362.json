@@ -1,0 +1,22 @@
+{
+  "verification_time": "2026-08-27T17:49:22.932055",
+  "matched_nova_id": "NOVA-85B6-B0F8-B6F5",
+  "original_image": "/home/pi/artnova/data/images/art_1787849327.jpg",
+  "verification_image": "/home/pi/artnova/data/images/verification_1787849350.jpg",
+  "scores": {
+    "overall": 88.35848030998528,
+    "red": 99.23104494362343,
+    "green": 99.11558228440049,
+    "blue": 98.80144857969543,
+    "rgb": 99.04935860257312,
+    "hue": 99.08936045742071,
+    "saturation": 98.66452593628176,
+    "value": 99.06386187173646,
+    "hsv": 98.93924942181297,
+    "histogram": 99.76311284744337,
+    "texture": 92.33007536062378,
+    "edge": 0,
+    "stroke": 99.8576931655407,
+    "brightness": 98.52313769304462
+  }
+}

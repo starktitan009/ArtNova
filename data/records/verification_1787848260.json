@@ -1,0 +1,22 @@
+{
+  "verification_time": "2026-08-27T17:31:00.515565",
+  "matched_nova_id": "NOVA-B9D6-2D59-149B",
+  "original_image": "/home/pi/artnova/data/images/art_1787847858.jpg",
+  "verification_image": "/home/pi/artnova/data/images/verification_1787848249.jpg",
+  "scores": {
+    "overall": 86.74606184119884,
+    "red": 99.33652341786525,
+    "green": 97.69554476269958,
+    "blue": 97.54246951795312,
+    "rgb": 98.19151256617265,
+    "hue": 97.77546416202372,
+    "saturation": 95.82774880541531,
+    "value": 98.01259251480435,
+    "hsv": 97.20526849408112,
+    "histogram": 99.47387062685908,
+    "texture": 85.59989690102239,
+    "edge": 0,
+    "stroke": 99.46697959676385,
+    "brightness": 96.45013397406105
+  }
+}

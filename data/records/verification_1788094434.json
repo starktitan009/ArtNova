@@ -1,0 +1,22 @@
+{
+  "verification_time": "2026-08-30T13:53:54.226184",
+  "matched_nova_id": "NOVA-ACB6-52D4-43E3",
+  "original_image": "/home/pi/artnova/data/images/art_1788094391.jpg",
+  "verification_image": "/home/pi/artnova/data/images/verification_1788094420.jpg",
+  "scores": {
+    "overall": 87.67909137354536,
+    "red": 74.22654851193329,
+    "green": 83.34348891035202,
+    "blue": 78.25409667195167,
+    "rgb": 78.60804469807898,
+    "hue": 98.80608633487591,
+    "saturation": 81.402102443842,
+    "value": 80.30859960101301,
+    "hsv": 86.83892945991029,
+    "histogram": 88.08630311676082,
+    "texture": 93.34199264214871,
+    "edge": 92.30186921329995,
+    "stroke": 99.56818018108606,
+    "brightness": 82.66615276166945
+  }
+}

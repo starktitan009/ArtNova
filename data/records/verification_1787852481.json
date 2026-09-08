@@ -1,0 +1,22 @@
+{
+  "verification_time": "2026-08-27T18:41:21.886483",
+  "matched_nova_id": "NOVA-62B2-00A5-DEC4",
+  "original_image": "/home/pi/artnova/data/images/art_1787852444.jpg",
+  "verification_image": "/home/pi/artnova/data/images/verification_1787852470.jpg",
+  "scores": {
+    "overall": 86.63523734783112,
+    "red": 95.54147301983633,
+    "green": 99.10963007033598,
+    "blue": 99.54638386525573,
+    "rgb": 98.06582898514269,
+    "hue": 99.93807304229028,
+    "saturation": 97.29832202611438,
+    "value": 98.46105325551356,
+    "hsv": 98.56581610797274,
+    "histogram": 94.67004294630169,
+    "texture": 91.25018537988836,
+    "edge": 0,
+    "stroke": 99.88545086234808,
+    "brightness": 98.3722972190939
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "verification_time": "2026-08-27T18:00:23.932076",
+  "matched_nova_id": "NOVA-DA15-FA61-ACF3",
+  "original_image": "/home/pi/artnova/data/images/art_1787849956.jpg",
+  "verification_image": "/home/pi/artnova/data/images/verification_1787850001.jpg",
+  "scores": {
+    "overall": 92.26494875825594,
+    "red": 94.35026907099771,
+    "green": 94.62144722553184,
+    "blue": 94.39258456978202,
+    "rgb": 94.4547669554372,
+    "hue": 93.58733509551105,
+    "saturation": 92.01137051270798,
+    "value": 94.90045187551127,
+    "hsv": 93.49971916124343,
+    "histogram": 95.53038190586071,
+    "texture": 87.83639988798956,
+    "edge": 74.51759774517596,
+    "stroke": 99.83921935781837,
+    "brightness": 96.15095866618515
+  }
+}
